@@ -1,8 +1,23 @@
-[AnaIsabelValle](https://github.com/AnaIsabelValle/UD-3-Prueba-De-Validacion.git).
-#Temática
-Subir la prueba de validación al control de versiones git.
+# [AnaIsabelValle](https://github.com/AnaIsabelValle/UD-3-Prueba-De-Validacion.git).
+##Temática
+Este proyecto consta de dos partes:
+
+1. Calculadora : Para realizar diversos métodos, media, factorial y Fibonacci 
+2. Vehículos : Para crear diferentes tipos: camión,ciclomtor.
+
 ##Paquetes
-1. com
-2. calculadora
-3. vehículos
+La distribución de mis paquetes, no fue del todo acertada.
+Sería:
+
+- **com** 
+   - **calculadora**
+   - **vehículos**
+      - tipos 
+
+
+
+
+
+
+
 
