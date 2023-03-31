@@ -1,0 +1,6 @@
+- Ana Isabel Gonzalez Rosales 
+- https://github.com/AnaIsabelValle/UD-3-Prueba-De-Validacion.git
+- Subir la prueba de validación al control de 
+- versio git.
+- Los paquetes ya están creados
+- 
